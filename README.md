@@ -4,7 +4,7 @@
 <p align='center'>
   I'm a self-taught passionate Full-stack developer from Ukraine
 <br/>
-See my portfolio website https://zakharov-artem.vercel.app
+See my portfolio <a href="https://zakharov-artem.vercel.app" target="_blank">website</a> 
 </p>
 <p align='center'>
   <a href="https://t.me/UserNotFoundExeption" target="_blank">
@@ -17,11 +17,11 @@ See my portfolio website https://zakharov-artem.vercel.app
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<!--START_SECTION:activity-->
+
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ZAKHAROV-Artem&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <img  alt="ZAKHAROV-Artem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZAKHAROV-Artem&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 </p>
-<!--END_SECTION:activity-->
+
 <p align="center">
   
  
