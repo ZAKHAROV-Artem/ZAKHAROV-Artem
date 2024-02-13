@@ -17,11 +17,11 @@ See my portfolio website https://zakharov-artem.vercel.app
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
+<!--START_SECTION:activity-->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ZAKHAROV-Artem&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
+<!--END_SECTION:activity-->
 <p align="center">
   
  
@@ -46,5 +46,3 @@ See my portfolio website https://zakharov-artem.vercel.app
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> 
 </p>
-
-
