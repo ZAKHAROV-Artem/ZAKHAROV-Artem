@@ -7,7 +7,7 @@
 See my portfolio <a href="https://zakharov-artem.vercel.app" target="_blank">website</a> 
 </p>
 <p align='center'>
-  <a href="https://t.me/UserNotFoundExeption" target="_blank">
+  <a href="https://t.me/UsernameNotFoundException" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>
   <a href="mailto:szakharovartem@gmail.com">
